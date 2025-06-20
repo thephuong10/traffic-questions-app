@@ -49,7 +49,7 @@ function QuizHardPage({ tests }) {
           } else {
             setIsCompleted(true); 
           }
-        }, 5000); 
+        }, 500); 
       } else {
         setFeedback('incorrect');
         // setIsNextDisabled(true); 
