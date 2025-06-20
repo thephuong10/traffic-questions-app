@@ -1,24 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
+
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import topics from './data/questions.json';
+import questions from './data/topics.json';
+import { generateTests } from './helpers/helperFunctions';
+import MainPage from './pages/MainPage';
+import QuizPage from './pages/QuizPage';
+import QuizHardPage from './pages/QuizHardPage';
+
+
+
+
+// const tests = generateTests(questions, 10, 25);
+
+//  console.log(JSON.stringify(generateTests(topics, 10, 25)));
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<MainPage tests={questions} />} />
+        <Route path="/test/:testIndex" element={<QuizPage tests={questions} />} />
+        <Route path="/test-hard/:testIndex" element={<QuizHardPage tests={questions}/>} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 
