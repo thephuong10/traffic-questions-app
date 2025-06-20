@@ -16,7 +16,7 @@ function QuizHardPage({ tests }) {
   const randomizeQuestions = () => {
     //const shuffledQuestions = [...questions].sort(() => Math.random() - 0.5);
     setQuestions([...questions]);
-    setAnswers(Array(shuffledQuestions.length).fill(null));
+    setAnswers(Array(questions.length).fill(null));
     setCurrentQuestion(0);
     setIsNextDisabled(true); 
     setFeedback(null); 
