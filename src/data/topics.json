@@ -704,7 +704,7 @@
                     "index": 1
                 }
             ],
-            "image": "https://res.cloudinary.com/truongdaihocsupham/image/upload/v1750229026/biy45r2x58uxxgj3xisz.png"
+            "image": "https://res.cloudinary.com/truongdaihocsupham/image/upload/v1750588501/Screenshot_2025-06-22_173404_zytuut.png"
         },
         {
             "questionNumber": 158,
@@ -856,11 +856,11 @@
             "correctAnswer": 1,
             "answer": [
                 {
-                    "content": "Biển 1 và 2",
+                    "content": "Biển 1",
                     "index": 0
                 },
                 {
-                    "content": "Biển 1",
+                    "content": "Biển 1 và 2",
                     "index": 1
                 },
                 {
@@ -913,7 +913,7 @@
         {
             "questionNumber": 152,
             "questionTitle": "Để đảm bảo tư thế lái xe mô tô an toàn, người lái xe phải thực hiện như thế nào?",
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "answer": [
                 {
                     "content": "Tầm nhìn bao quát, vai thả lỏng, bàn tay nắm tròn vào tay nắm xe, khuỷu tay hơi khép vào phía trong, ngồi chính giữa yên xe",
@@ -1031,7 +1031,7 @@
         {
             "questionNumber": 133,
             "questionTitle": "Biển nào báo hiệu hết hạn chế tốc độ tối đa cho phép theo biển ghép?",
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "answer": [
                 {
                     "content": "Biển 1",
@@ -1067,7 +1067,7 @@
         {
             "questionNumber": 96,
             "questionTitle": "Ba biển này có ý nghĩa như thế nào?",
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "answer": [
                 {
                     "content": "Cấm các loại xe ở biển phụ đi vào",
@@ -1151,7 +1151,7 @@
         {
             "questionNumber": 107,
             "questionTitle": "Biển nào báo hiệu đoạn đường hay xảy ra tai nạn?",
-            "correctAnswer": 0,
+            "correctAnswer": 1,
             "answer": [
                 {
                     "content": "Biển 1",
@@ -1171,7 +1171,7 @@
         {
             "questionNumber": 145,
             "questionTitle": "Cách dựng chân chống chính của xe mô tô?",
-            "correctAnswer": 1,
+            "correctAnswer": 3,
             "answer": [
                 {
                     "content": "Tay trái nắm vào tay nắm xe và giữ xe thẳng đứng, tay phải nắm lấy thanh đỡ phía sau",
@@ -1195,7 +1195,7 @@
         {
             "questionNumber": 25,
             "questionTitle": "Khi người điều khiển giao thông ra hiệu lệnh: “tay phải giơ về phía trước”, người tham gia giao thông đường bộ phải thực hiện như thế nào?",
-            "correctAnswer": 0,
+            "correctAnswer": 3,
             "answer": [
                 {
                     "content": "Người tham gia giao thông đường bộ ở phía sau và bên phải người điều khiển giao thông phải dừng lại; người đi bộ qua đường phải đi sau lưng người điều khiển giao thông",
@@ -1351,7 +1351,7 @@
         {
             "questionNumber": 195,
             "questionTitle": "Theo hướng mũi tên, xe nào vi phạm quy tắc giao thông?",
-            "correctAnswer": 3,
+            "correctAnswer": 2,
             "answer": [
                 {
                     "content": "Xe ô tô khách",
@@ -1391,7 +1391,7 @@
         {
             "questionNumber": 67,
             "questionTitle": "Người có giấy phép lái xe hạng B1 được điều khiển loại xe nào?",
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "answer": [
                 {
                     "content": "Các loại xe ô tô quy định cho giấy phép lái xe hạng B có kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg",
@@ -1589,7 +1589,7 @@
         {
             "questionNumber": 110,
             "questionTitle": "Biển nào báo hiệu đường hai chiều?",
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "answer": [
                 {
                     "content": "Biển 1",
@@ -1609,7 +1609,7 @@
         {
             "questionNumber": 194,
             "questionTitle": "Thứ tự các xe đi như thế nào là đúng quy tắc giao thông?",
-            "correctAnswer": 0,
+            "correctAnswer": 3,
             "answer": [
                 {
                     "content": "Xe ô tô (A), xe mô tô, xe ô tô (B), xe đạp",
@@ -1745,7 +1745,7 @@
         {
             "questionNumber": 207,
             "questionTitle": "Trong hình dưới đây, những xe nào vi phạm quy tắc giao thông?",
-            "correctAnswer": 2,
+            "correctAnswer": 1,
             "answer": [
                 {
                     "content": "Xe ô tô khách (1), xe mô tô (3)",
@@ -1813,7 +1813,7 @@
         {
             "questionNumber": 78,
             "questionTitle": "Hành vi người điều khiển xe mô tô trên đường mà trong máu hoặc hơi thở có nồng độ cồn chưa vượt quá 80 miligam/100 mililit máu hoặc chưa vượt quá 0,4 miligam/1 lít khí thở có bị trừ điểm giấy phép lái xe không?",
-            "correctAnswer": 0,
+            "correctAnswer": 1,
             "answer": [
                 {
                     "content": "Không bị trừ điểm",
@@ -1833,7 +1833,7 @@
         {
             "questionNumber": 53,
             "questionTitle": "Tại nơi đường bộ giao nhau cùng mức với đường sắt không có người gác, chắn đường bộ, chuông, đèn tín hiệu, người tham gia giao thông đường bộ phải thực hiện như thế nào?",
-            "correctAnswer": 2,
+            "correctAnswer": 0,
             "answer": [
                 {
                     "content": "Phải dừng lại về bên phải đường của mình, trước vạch dừng xe và quan sát hai phía, khi không có phương tiện đường sắt tới mới được đi qua",

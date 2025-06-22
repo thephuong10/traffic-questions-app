@@ -74,7 +74,12 @@ function QuizHardPage({ tests }) {
       <h1>Đề số {parseInt(testIndex) + 1}</h1>
       <Link to="/">← Quay lại danh sách đề</Link>
       <div className="quiz-question" style={{ backgroundColor: feedback === 'correct' ? '#d4edda' : feedback === 'incorrect' ? '#f8d7da' : '' }}>
-        <p><b>Câu {currentQuestion + 1}: </b>{questions[currentQuestion].questionTitle}</p>
+        <p>
+          <b>Câu {currentQuestion + 1}: </b>
+          <span style={{
+            fontWeight:600
+          }}>{questions[currentQuestion].questionTitle}</span>
+        </p>
         {questions[currentQuestion].image && <img src={questions[currentQuestion].image} alt="" style={{ maxWidth: '100%', height: 'auto', display: "block", marginBottom: 8 }} />}
         <div>
           {questions[currentQuestion].answer.map((a, aIdx) => {
