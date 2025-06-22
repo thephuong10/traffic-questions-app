@@ -1034,7 +1034,7 @@
     {
         "questionNumber": 52,
         "questionTitle": "Thứ tự xuống phà như thế nào là đúng quy tắc giao thông?",
-        "correctAnswer": 0,
+        "correctAnswer": 1,
         "answer": [
             {
                 "content": "Xe thô sơ, người đi bộ xuống phà trước, xe cơ giới, xe máy chuyên dùng xuống phà sau",
@@ -2610,7 +2610,7 @@
     {
         "questionNumber": 129,
         "questionTitle": "Biển nào đặt trước ngã ba, ngã tư và có hiệu lực phía sau mặt biển?",
-        "correctAnswer": 0,
+        "correctAnswer": 3,
         "answer": [
             {
                 "content": "Biển 1",

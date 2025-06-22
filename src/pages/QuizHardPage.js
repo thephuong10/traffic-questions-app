@@ -63,6 +63,9 @@ function QuizHardPage({ tests }) {
     randomizeQuestions(); 
   };
 
+
+  
+  
   
   const correctCount = answers.filter((a, idx) => a === questions[idx].correctAnswer).length;
 
@@ -118,29 +121,32 @@ function QuizHardPage({ tests }) {
 
       <div>
         
-        {isCompleted || hasFailed ? (
-          <button onClick={handleRetry}>Làm lại</button> 
+        {isCompleted ? (
+          feedback === 'correct' ? (
+            <div>
+              <h2>Chúc mừng! Bạn đã trả lời đúng tất cả {correctCount} / {questions.length} câu!</h2>
+              <button onClick={handleRetry}>Làm lại</button>
+            </div>
+          ) : <></>
+         ) : (
+          hasFailed ? (
+          <button className='btn-primary' onClick={handleRetry}>Làm lại</button> 
         ) : (
-          <button 
-            onClick={handleNext} 
-            //disabled={isNextDisabled} 
-            style={isNextDisabled ? ({
-              backgroundColor: 'gray',
-              cursor: 'not-allowed'
-            }) : {}}>
-            Tiếp theo
-          </button> 
-        )}
+            <button className='btn-primary'
+              onClick={handleNext} 
+              style={isNextDisabled ? ({
+                backgroundColor: 'gray',
+                cursor: 'not-allowed'
+              }) : {}}>
+              Tiếp theo
+            </button> 
+          )
+         )
+        } 
+
       </div>
 
-      
-      {isCompleted && feedback === 'correct' && (
-        <div>
-          <h2>Chúc mừng! Bạn đã trả lời đúng tất cả {correctCount} / {questions.length} câu!</h2>
-          <button onClick={handleRetry}>Làm lại</button>
-        </div>
-      )}
-
+    
       
       {feedback === 'incorrect' && !isCompleted && (
         <div>
