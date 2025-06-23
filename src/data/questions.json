@@ -1322,7 +1322,7 @@
     {
         "questionNumber": 66,
         "questionTitle": "Người có giấy phép lái xe hạng A được điều khiển loại xe nào?",
-        "correctAnswer": 1,
+        "correctAnswer": 0,
         "answer": [
             {
                 "content": "Xe mô tô hai bánh có dung tích xi-lanh trên 125 cm3 hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1",
@@ -1362,7 +1362,7 @@
     {
         "questionNumber": 68,
         "questionTitle": "Giấy phép lái xe hạng nào dưới đây có thời hạn?",
-        "correctAnswer": 1,
+        "correctAnswer": 2,
         "answer": [
             {
                 "content": "Hạng A1",
@@ -1686,7 +1686,7 @@
     {
         "questionNumber": 84,
         "questionTitle": "Hành vi người điều khiển xe mô tô trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililit máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở bị trừ bao nhiêu điểm giấy phép lái xe?",
-        "correctAnswer": 0,
+        "correctAnswer": 1,
         "answer": [
             {
                 "content": "Bị trừ 06 điểm",
@@ -1798,7 +1798,7 @@
     {
         "questionNumber": 89,
         "questionTitle": "Khi tham gia giao thông trên đường bộ, mặt đường khô ráo, không có sương mù, mặt đường không trơn trượt, địa hình bằng phẳng, đường thẳng, tầm nhìn bảo đảm, người điều khiển xe cơ giới chạy với tốc độ 60 km/h phải giữ khoảng cách an toàn tối thiểu đối với xe chạy liền trước xe của mình là bao nhiêu?",
-        "correctAnswer": 1,
+        "correctAnswer": 0,
         "answer": [
             {
                 "content": "35 m",
@@ -1926,7 +1926,7 @@
     {
         "questionNumber": 95,
         "questionTitle": "Biển nào cấm quay đầu xe?",
-        "correctAnswer": 2,
+        "correctAnswer": 1,
         "answer": [
             {
                 "content": "Biển 1",
@@ -1962,7 +1962,7 @@
     {
         "questionNumber": 97,
         "questionTitle": "Biển nào xe mô tô hai bánh được đi vào?",
-        "correctAnswer": 2,
+        "correctAnswer": 1,
         "answer": [
             {
                 "content": "Biển 1 và 2",
@@ -2070,7 +2070,7 @@
     {
         "questionNumber": 102,
         "questionTitle": "Biển nào báo hiệu hết hạn chế tốc độ tối đa trong khu vực?",
-        "correctAnswer": 0,
+        "correctAnswer": 2,
         "answer": [
             {
                 "content": "Biển 1",
@@ -2290,7 +2290,7 @@
     {
         "questionNumber": 113,
         "questionTitle": "Khi gặp biển nào, người lái xe phải giảm tốc độ, chú ý xe đi ngược chiều, xe đi ở chiều đường bị hẹp phải nhường đường cho xe đi ngược chiều?",
-        "correctAnswer": 1,
+        "correctAnswer": 2,
         "answer": [
             {
                 "content": "Biển 1",
@@ -2370,7 +2370,7 @@
     {
         "questionNumber": 117,
         "questionTitle": "Gặp biển nào người lái xe phải giảm tốc độ, nhường ưu tiên cho người đi bộ?",
-        "correctAnswer": 2,
+        "correctAnswer": 0,
         "answer": [
             {
                 "content": "Biển 1",
@@ -2414,7 +2414,7 @@
     {
         "questionNumber": 119,
         "questionTitle": "Biển nào cảnh báo chỗ ngoặt nguy hiểm liên tiếp?",
-        "correctAnswer": 1,
+        "correctAnswer": 3,
         "answer": [
             {
                 "content": "Biển 1 và 2",
@@ -2546,7 +2546,7 @@
     {
         "questionNumber": 126,
         "questionTitle": "Biển nào báo trước sắp đến bến phà?",
-        "correctAnswer": 0,
+        "correctAnswer": 2,
         "answer": [
             {
                 "content": "Biển 1",
@@ -2566,7 +2566,7 @@
     {
         "questionNumber": 127,
         "questionTitle": "Biển này có ý nghĩa gì?",
-        "correctAnswer": 0,
+        "correctAnswer": 2,
         "answer": [
             {
                 "content": "Dốc xuống nguy hiểm",
@@ -2650,7 +2650,7 @@
     {
         "questionNumber": 131,
         "questionTitle": "Biển nào báo hiệu hướng đi phải theo?",
-        "correctAnswer": 1,
+        "correctAnswer": 0,
         "answer": [
             {
                 "content": "Biển 1",
@@ -2797,7 +2797,7 @@
                 "index": 2
             }
         ],
-        "image": null
+        "image": "https://res.cloudinary.com/truongdaihocsupham/image/upload/v1750229026/biy45r2x58uxxgj3xisz.png"
     },
     {
         "questionNumber": 139,
@@ -2813,7 +2813,7 @@
                 "index": 1
             }
         ],
-        "image": null
+        "image": "https://res.cloudinary.com/truongdaihocsupham/image/upload/v1750229027/i6mvwpowl6u5nijcj2n8.png"
     },
     {
         "questionNumber": 140,
@@ -2970,7 +2970,7 @@
     {
         "questionNumber": 147,
         "questionTitle": "Thao tác dựng xe mô tô khi bị đổ sang phải?",
-        "correctAnswer": 2,
+        "correctAnswer": 3,
         "answer": [
             {
                 "content": "Gạt chân chống phụ xe và đứng phía bên phải xe",
@@ -3098,7 +3098,7 @@
     {
         "questionNumber": 154,
         "questionTitle": "Khi điều khiển xe mô tô, người lái xe phải sử dụng phanh tay như thế nào là đúng?",
-        "correctAnswer": 1,
+        "correctAnswer": 2,
         "answer": [
             {
                 "content": "Không đặt sẵn ngón tay trên tay phanh",
@@ -3526,7 +3526,7 @@
     {
         "questionNumber": 177,
         "questionTitle": "Điện xe mô tô gồm những hệ thống nào?",
-        "correctAnswer": 1,
+        "correctAnswer": 0,
         "answer": [
             {
                 "content": "Hệ thống đánh lửa, hệ thống khởi động, hệ thống tín hiệu và chiếu sáng, hệ thống đo lường",
@@ -3782,7 +3782,7 @@
     {
         "questionNumber": 191,
         "questionTitle": "Thứ tự các xe đi như thế nào là đúng quy tắc giao thông?",
-        "correctAnswer": 1,
+        "correctAnswer": 2,
         "answer": [
             {
                 "content": "Xe ô tô khách, xe ô tô tải, xe mô tô, xe ô tô con",
@@ -3826,7 +3826,7 @@
     {
         "questionNumber": 193,
         "questionTitle": "Xe nào được quyền đi trước trong trường hợp này?",
-        "correctAnswer": 0,
+        "correctAnswer": 1,
         "answer": [
             {
                 "content": "Xe ô tô con",
@@ -3934,7 +3934,7 @@
     {
         "questionNumber": 198,
         "questionTitle": "Theo tín hiệu đèn, xe nào chấp hành đúng quy tắc giao thông?",
-        "correctAnswer": 0,
+        "correctAnswer": 3,
         "answer": [
             {
                 "content": "Xe ô tô khách, xe mô tô",
@@ -4002,7 +4002,7 @@
     {
         "questionNumber": 201,
         "questionTitle": "Các xe đi theo hướng mũi tên, xe nào vi phạm quy tắc giao thông?",
-        "correctAnswer": 0,
+        "correctAnswer": 1,
         "answer": [
             {
                 "content": "Xe ô tô con, xe ô tô tải, xe ô tô khách",
@@ -4094,7 +4094,7 @@
     {
         "questionNumber": 205,
         "questionTitle": "Trong trường hợp này, thứ tự các xe đi như thế nào là đúng quy tắc giao thông?",
-        "correctAnswer": 0,
+        "correctAnswer": 1,
         "answer": [
             {
                 "content": "Xe công an đi làm nhiệm vụ, xe quân sự đi làm nhiệm vụ, xe ô tô + xe mô tô",
@@ -4170,7 +4170,7 @@
     {
         "questionNumber": 209,
         "questionTitle": "Xe nào đỗ vi phạm quy tắc giao thông?",
-        "correctAnswer": 3,
+        "correctAnswer": 2,
         "answer": [
             {
                 "content": "Xe mô tô",
@@ -4218,7 +4218,7 @@
     {
         "questionNumber": 211,
         "questionTitle": "Trong trường hợp này xe nào đỗ vi phạm quy tắc giao thông?",
-        "correctAnswer": 2,
+        "correctAnswer": 0,
         "answer": [
             {
                 "content": "Xe ô tô tải",
@@ -4242,7 +4242,7 @@
     {
         "questionNumber": 212,
         "questionTitle": "Xe nào vi phạm quy tắc giao thông?",
-        "correctAnswer": 0,
+        "correctAnswer": 1,
         "answer": [
             {
                 "content": "Xe ô tô con",
@@ -4262,7 +4262,7 @@
     {
         "questionNumber": 213,
         "questionTitle": "Theo tín hiệu đèn của xe cơ giới, xe nào vi phạm quy tắc giao thông?",
-        "correctAnswer": 0,
+        "correctAnswer": 2,
         "answer": [
             {
                 "content": "Cả hai xe",
@@ -4394,7 +4394,7 @@
     {
         "questionNumber": 219,
         "questionTitle": "Trách nhiệm của người lái xe khi thực hiện nhiệm vụ dẫn đoàn là gì?",
-        "correctAnswer": 1,
+        "correctAnswer": 0,
         "answer": [
             {
                 "content": "Sử dụng triệt để các quyền ưu tiên theo quy định khi tình huống khẩn cấp xảy ra; đảm bảo tuyệt đối bí mật về thời gian, địa điểm, các biện pháp chiến thuật, nghiệp vụ, thông tin liên lạc; nhanh chóng, kịp thời thực hiện theo chương trình kế hoạch hoặc chỉ đạo của cấp trên; đảm bảo tuyệt đối an toàn, vận hành thông suốt, phối hợp nhịp nhàng giữa các lực lượng",
@@ -4934,7 +4934,7 @@
     {
         "questionNumber": 246,
         "questionTitle": "Trong các loại bình chữa cháy dưới đây, loại bình nào phù hợp nhất để trang bị và sử dụng trong phòng cháy, chữa cháy đối với phương tiện giao thông cơ giới đường bộ?",
-        "correctAnswer": 1,
+        "correctAnswer": 0,
         "answer": [
             {
                 "content": "Bình chữa cháy dùng chất chữa cháy gốc nước (bình nước chữa cháy) và bình chữa cháy dùng bột chữa cháy loại ABC (bình bột chữa cháy)",
